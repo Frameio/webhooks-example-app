@@ -10,7 +10,7 @@ For more information about how Webhooks work, check out our [documentation](http
 ## Pre-requisites 
 
 * Developer account with Frame.io - [https://developer.frame.io](https://developer.frame.io/)
-* Web server with a publicly accessible address - we recommend trying [ngrok](https://https://ngrok.com/)
+* Web server with a publicly accessible address - we recommend trying [ngrok](https://ngrok.com/)
 
 ## Usage
 
